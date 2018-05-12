@@ -1,0 +1,27 @@
+_repo: Pagan-Origin-of-Partialist-Doctrines_43630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43630-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pitrat, John Claudius
+    alias: Pietrat, J. C. (John Claudius)
+    gutenberg_agent_id: '42332'
+    url: http://www.gutenberg.org/2009/agents/42332
+description: ''
+gutenberg_issued: '2013-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Future punishment'
+- !lcsh 'Universalism'
+- !lcsh 'Catholic Church -- Controversial literature'
+- !lcc 'BX'
+title: Pagan Origin of Partialist Doctrines
+url: http://www.gutenberg.org/ebooks/43630
