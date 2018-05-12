@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42332'
     url: http://www.gutenberg.org/2009/agents/42332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43630#Pagan-Origin-of-Partialist-Doctrines
 gutenberg_issued: '2013-09-03'
 gutenberg_type: Text
 identifiers:
